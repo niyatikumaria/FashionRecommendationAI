@@ -13,8 +13,8 @@ from numpy.linalg import norm
 from PIL import Image
 
 # Google Drive file IDs
-EMBEDDINGS_FILE_ID = "1Su0ZPweDD5WB61dk7TLTJYEMmgx6pWEb"  # Replace with actual ID
-FILENAMES_FILE_ID = "1LZaFDoOhnQRnqfVDjhBkSNZjsqoUJXx2"  # Replace with actual ID
+EMBEDDINGS_FILE_ID = "10j-pbgXgIQKw03FsEZsO2B0uP-OT3jom"  # Replace with actual ID
+FILENAMES_FILE_ID = "1-8-eY2-7d9j9ylbB4m2pIcVmPVq6AN9n"  # Replace with actual ID
 
 # Download embeddings.pkl
 if not os.path.exists("embeddings.pkl"):
